@@ -1,9 +1,13 @@
 <div align="center">
-  
-  <h1>𝔐𝔢𝔡𝔢 👋</h1>
-  <p><em>frontend & graphic designer 🚀</em></p>
 
-  <img height="250" src="https://c.tenor.com/xXoE4grj88kAAAAC/tenor.gif" />
+  <h1>𝔐𝔢𝔡𝔢 👋</h1>
+  <p><em>full-stack fok baligi // bodrum karizmasi // grafik sihircisi</em></p>
+
+  <img src="https://c.tenor.com/xXoE4grj88kAAAAC/tenor.gif" height="250" />
+
+  <br /><br />
+
+  <img src="https://readme-time.vercel.app/api?timezone=Europe/Istanbul&style=default&fontSize=24" alt="current time" />
 
 </div>
 
@@ -11,7 +15,7 @@
 
 <div align="center">
 
-### 🛠️ technologies & tools
+### 🔥 technologies & tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
@@ -27,14 +31,20 @@
 
 <div align="center">
 
-### 🔗 connect with me
+### 📊 github stats
 
-<a href="https://www.instagram.com/metesahankurt" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</a>
-<a href="https://www.linkedin.com/in/metesahankurt" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=metesahankurt&show_icons=true&theme=radical" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metesahankurt&layout=compact&theme=radical" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔁 github streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=metesahankurt&theme=dark&background=000000" />
 
 </div>
 
@@ -46,6 +56,24 @@
 
 <a href="https://open.spotify.com/user/31rqmp7fb2bt42rzdhjk6qxvn4mq">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rqmp7fb2bt42rzdhjk6qxvn4mq&count=5&unique=false" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔗 connect with me
+
+<a href="https://www.instagram.com/metesahankurt" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</a>
+<a href="https://www.linkedin.com/in/metesahankurt" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=metesahankurt&style=flat-square&color=blue" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=metesahankurt&style=flat-square&color=blue" alt="profile views"/>
 </a>
 
 </div>
