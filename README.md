@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there 👋 I'm Mede</h1>
+  <h1>Hi there 👋 I'm 𝔐𝔢𝔡𝔢</h1>
   <p><em>Full-stack Developer • UI/UX Enthusiast • Creative Technologist</em></p>
 
   <img src="https://c.tenor.com/xXoE4grj88kAAAAC/tenor.gif" height="250" />
