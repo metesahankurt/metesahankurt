@@ -30,7 +30,7 @@ Always learning, always creating.
 <a href="https://www.instagram.com/metesahankurt" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
 </a>
-<a href="https://www.linkedin.com/in/metesahankurt" target="_blank">
+<a href="https://www.linkedin.com/in/mete-sahan-kurt" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 </a>
 <a href="mailto:metesahankurt@gmail.com" target="_blank">
