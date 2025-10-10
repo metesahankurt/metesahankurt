@@ -33,7 +33,7 @@ Always learning, always creating.
 <a href="https://www.linkedin.com/in/mete-sahan-kurt" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 </a>
-<a href="mailto:metesahankurt@gmail.com" target="_blank">
+<a href="mailto:metesahankurt@yahoo.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
 </a>
 
