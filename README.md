@@ -25,10 +25,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="GitHub Streak" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=metesahankurt&hide_border=true&theme=transparent"/> 
-</p>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=metesahankurt&theme=transparent"
