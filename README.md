@@ -20,11 +20,36 @@
 <br><br>
 
 <div align="center">
-  <h2>Stats</h2>
+  <h2>Projects</h2>
 </div>
 
 <br>
 
+### [HashDrop](https://github.com/metesahankurt/hashdrop)
+Secure peer-to-peer file transfer over the web.  
+HashDrop is a privacy-focused file transfer application built with Next.js and WebRTC. Files are shared directly between devices using end-to-end encryption. There is no cloud storage, tracking, or server-side file retention. The system is designed with a focus on speed, security, and simplicity.
+
+---
+
+### [VideoToWebMConverter](https://github.com/metesahankurt/VideoToWebMConverter)
+Lightweight video converter for modern web optimization.  
+A fast and efficient tool for converting videos into the WebM format while preserving high quality. It helps reduce file sizes and improve website performance, and supports multiple input video formats.
+
+---
+
+### [ImageToWebPConverter](https://github.com/metesahankurt/ImageToWebPConverter)
+Image optimization tool for faster websites.  
+Converts .jpg, .jpeg, and .png images into optimized .webp format. Developed to enhance web performance by lowering image sizes, reducing bandwidth usage, and improving page load times.
+
+---
+
+<br><br>
+
+<div align="center">
+  <h2>Stats</h2>
+</div>
+
+<br>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=metesahankurt&theme=transparent"
