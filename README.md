@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.metmuseum.org/art/collection/search/435702">
     <img 
-      src="[https://collectionapi.metmuseum.org/api/collection/v1/iiif/435702/2078727/main-image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/3840px-Nighthawks_by_Edward_Hopper_1942.jpg)" 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/1920px-Nighthawks_by_Edward_Hopper_1942.jpg" 
       alt="Gece Kuşları"
       width="100%"
       style="max-width:900px; border-radius:8px;"
