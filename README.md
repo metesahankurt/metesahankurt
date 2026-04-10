@@ -3,7 +3,7 @@
     <img 
       src="https://cdn.cosmos.so/3bf1cf74-89a1-4496-bfee-5e8acd80050b?format=jpeg" 
       alt="Gece Kuşları"
-      width="50%"
+      width="80%"
       style="max-width:900px; border-radius:8px;"
     />
   </a>
