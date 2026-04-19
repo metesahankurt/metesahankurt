@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.metmuseum.org/art/collection/search/435702">
     <img 
-      src="https://i.pinimg.com/736x/73/11/2f/73112f08e8cc7a0b1d17ac6f8a25a07d.jpg" 
+      src="https://cdn.cosmos.so/7525c502-2b9b-468e-b326-c3b22b3dd378?format=jpeg" 
       alt="Gece Kuşları"
       width="100%"
       style="max-width:900px; border-radius:8px;"
